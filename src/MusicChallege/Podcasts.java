@@ -29,4 +29,16 @@ public class Podcasts extends Audio {
     public void setApresentador(String apresentador) {
         this.apresentador = apresentador;
     }
+
+
+    @Override
+    public double getClasificacao() {
+        if (this.getTotalcurtidas() > 500) {
+            return 10;
+        }
+        else {
+            return 8;
+        }
+
+    }
 }

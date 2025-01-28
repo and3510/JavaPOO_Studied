@@ -30,4 +30,14 @@ public class Musicas extends Audio {
         this.genero = genero;
     }
 
+
+    @Override
+    public double getClasificacao() {
+        if (getTotalcurtidas() > 2000) {
+            return 10;
+        }
+        else {
+            return 7;
+        }
+    }
 }

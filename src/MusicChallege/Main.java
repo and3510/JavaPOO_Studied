@@ -30,5 +30,12 @@ public class Main {
             meuPodcast.cute();
         }
 
+
+        MinhasPreferidas preferidas = new MinhasPreferidas();
+        preferidas.inclui(meuPodcast);
+        preferidas.inclui(minhaMusica);
+
     }
+
+
 }
