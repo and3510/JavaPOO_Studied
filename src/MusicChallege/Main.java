@@ -1,4 +1,4 @@
-package Modelos;
+package MusicChallege;
 
 public class Main {
 
