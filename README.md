@@ -4,7 +4,6 @@
 
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Intellj](https://img.shields.io/badge/Made%20for-Intellij_IDEA-1f425f.svg)
-  ![POO](https://img.shields.io/badge/Paradigma-POO-blue?style=for-the-badge)
 
 </div>
 
