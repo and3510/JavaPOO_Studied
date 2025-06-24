@@ -1,4 +1,4 @@
-<h1 align="center">📚 Estudo de POO em Java ☕</h1>
+<h1 align="center">📚 Estudo de Java ☕</h1>
 
 <div align="center">
 
